@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vscode dev container settings
+.vscode/
+
+# autokeras 
+ak-logs/
+ak-mods/
